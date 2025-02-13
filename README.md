@@ -71,6 +71,3 @@ Licensed under MIT. See `LICENSE` file for details.
 - 📡 **Expanded Environmental & Geophysical Sensor Arrays**
 - 🎛 **Multi-Unit Synchronization for High-Precision Data Mapping**
 
-## Authors
-
-[Beyond The Horizon Labs](https://github.com/BeyondTheHorizonLabs)
